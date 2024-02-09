@@ -1,5 +1,5 @@
 
-__1.Steps to run the project in Eclipse:__
+## __1.Steps to run the project in Eclipse:__
 
 1.1	Please check in Eclipse Window -> Preference, TestNG Plugin is available in eclipse IDE.
     If it is not available kindly follow step 2 to install it.
@@ -30,7 +30,7 @@ https://github.com/devisuga90github/HMH.git
 
 
 
-__2.Open TestNG XML File:__
+## __2.Open TestNG XML File:__
 
 2.1	Locate the testng_hmh.xml file in the project structure.
 
@@ -40,7 +40,7 @@ __2.Open TestNG XML File:__
 
 
  
-__3.Run TestNG Suite:__
+## __3.Run TestNG Suite:__
 
 3.1	Right-click inside the opened XML file. 
 
@@ -50,7 +50,7 @@ __3.Run TestNG Suite:__
 ![image](https://github.com/devisuga90github/HMH/assets/147948523/e2eb72e2-83ad-4f66-a2c4-0e8a046e6635)
 
 
-__4.View TestNG Report:__
+## __4.View TestNG Report:__
 
 4.1	After the test execution completes, Right Click and refresh the project folder. 
 
