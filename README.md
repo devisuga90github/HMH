@@ -3,10 +3,10 @@ Steps to run the project in Eclipse:
 1.	Please check in Eclipse Window -> Preference, TestNG Plugin is available in eclipse IDE.
     If it is not available kindly follow step 2 to install it.
 
-![image](https://github.com/devisuga90github/HMH/assets/147948523/feb2ac38-94ef-4b38-87ea-228029a3abc0)
+![image](https://github.com/devisuga90github/HMH/assets/147948523/feb2ac38-94ef-4b38-87ea-228029a3abc0)![image](https://github.com/devisuga90github/HMH/assets/147948523/130d92ac-32e1-4636-aa84-7310f502e37a)
+  
 
-   
-![image](https://github.com/devisuga90github/HMH/assets/147948523/130d92ac-32e1-4636-aa84-7310f502e37a)
+
 
 
 
@@ -18,11 +18,14 @@ Steps to run the project in Eclipse:
 
  
 
+
 3.	Clone the github repo in local machine
 https://github.com/devisuga90github/HMH.git
 
 
+
 4.	Eclipse->File->Open project from file system-> provide repo path in import source ->Finish 
+
 
 
 Open TestNG XML File: (Screenshot below)
@@ -30,12 +33,14 @@ Open TestNG XML File: (Screenshot below)
 2.	Double-click on the XML file to open it in the Eclipse editor.
 ![image](https://github.com/devisuga90github/HMH/assets/147948523/ee52c90e-6874-4fda-9e11-64fd645f72fe)
 
+
  
 Run TestNG Suite: (Screenshot below)
 1.	Right-click inside the opened XML file. 
 2.	Select "Run As" > "1 TestNG Suite". (Please re execute if you face retry issues) This will execute all the test cases defined in the XML file.
 3.	Select "Run As" > "1 TestNG Suite". (Please re execute if you face retry issues) This will execute all the test cases defined in the XML file. 
 ![image](https://github.com/devisuga90github/HMH/assets/147948523/e2eb72e2-83ad-4f66-a2c4-0e8a046e6635)
+
 
 View TestNG Report: (Screenshot below)
 1.	After the test execution completes, Right Click and refresh the project folder. 
@@ -46,12 +51,10 @@ View TestNG Report: (Screenshot below)
    ![image](https://github.com/devisuga90github/HMH/assets/147948523/a50d4131-2d81-410f-a6ba-c246189bdab6)
 ![image](https://github.com/devisuga90github/HMH/assets/147948523/ecaf37cf-0b35-46ca-80b5-d7723e5dbf32)
 
+
 A sample report attached for your reference.
 
 
  
-
-
-  
-A sample report attached for your reference.
+[Sample Report](documents/samplereport.html)
  
