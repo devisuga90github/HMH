@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="hmh_Favqs.BaseClass"/>
+      <class name="hmh_Favqs.TC06_UnFavQuoteWithNoSessionId"/>
+      <class name="hmh_Favqs.TC05_UnFavQuote"/>
+      <class name="hmh_Favqs.TC01_QuoteOfTheDay"/>
+      <class name="hmh_Favqs.TC02_FavQuote"/>
+      <class name="hmh_Favqs.TC03_FavQuote_InvalidData"/>
+      <class name="hmh_Favqs.TC07_ListAllQuotes"/>
+      <class name="hmh_Favqs.TC04_FavQuoteWithNoSessionId"/>
+      <class name="hmh_Favqs.TC09_GetQuoteByFilter"/>
+      <class name="hmh_Favqs.TC08_GetQuoteContainingWords"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
